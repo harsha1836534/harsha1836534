@@ -33,9 +33,9 @@ Hi there! 👋 I'm an undergraduate student with a passion for coding and proble
    - *Description*: Developed a machine learning model that predicts the presence of heart disease using various health metrics, such as age, cholesterol levels, blood pressure, and more. The system incorporates advanced feature analysis and severity assessment to provide actionable insights. The model is deployed through a Streamlit web app, offering a user-friendly interface for data input and real-time predictions. It also visualizes feature importance and evaluates the risk of heart disease, helping both patients and healthcare professionals make informed decisions.
 ## 📫 How to Reach Me  
 
-- *Email*: ptejaswi9911@gmail.com  
-- *LinkedIn*: [Tejaswi Ponukupati](www.linkedin.com/in/tejaswi-ponukupati-96a8a1271)  
-- *Portfolio*: [Your Portfolio](https://your-portfolio-link.com)  
+- *Email*: jharshith2005@gmail.com  
+- *LinkedIn*: [Harshith Jogipet](www.linkedin.com/in/harshith-jogipet-2b79aa2aa)  
+- *Portfolio*: 
 
 ## 🤝 Let's Connect  
 
